@@ -1,5 +1,5 @@
 ## offline-first mobile application using MongoDB Realm in React Native.
 
-<img src="http://lakshmankambam.com/MongoDBRealm3.gif" />
+<img src="https://lakshmankambam.com/MongoDBRealm3.gif" />
 
 
