@@ -1,1 +1,3 @@
-# mongodb-realm-offline-first-app
+# offline-first mobile application using MongoDB Realm in React Native.
+
+
